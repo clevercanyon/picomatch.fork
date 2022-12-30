@@ -1,7 +1,7 @@
 {
   "private": false,
   "license": "MIT",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "name": "@clevercanyon/picomatch.fork",
   "description": "Blazing fast and accurate glob matcher written JavaScript.",
   "repository": "https://github.com/clevercanyon/picomatch.fork",
