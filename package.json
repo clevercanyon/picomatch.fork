@@ -1,5 +1,8 @@
 {
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "version": "2.3.4",
   "name": "@clevercanyon/picomatch.fork",
