@@ -25,10 +25,9 @@
     }
   ],
   "files": [
-    "lib",
-    "index.js"
+    "/lib",
+    "/index.js"
   ],
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {}
+  "main": "./index.js",
+  "unpkg": "./index.js"
 }
