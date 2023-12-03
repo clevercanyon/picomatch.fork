@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "2.3.71",
+    "version": "2.3.72",
     "license": "MIT",
     "name": "@clevercanyon/picomatch.fork",
     "description": "Blazing fast and accurate glob matcher written JavaScript.",
