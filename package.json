@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "2.3.106",
+    "version": "2.3.107",
     "license": "MIT",
     "name": "@clevercanyon/picomatch.fork",
     "description": "Blazing fast and accurate glob matcher written JavaScript.",
@@ -40,7 +40,7 @@
     "optionalDependencies": {},
     "bundleDependencies": [],
     "devDependencies": {
-        "@clevercanyon/dev-deps": "^1.0.335"
+        "@clevercanyon/dev-deps": "^1.0.336"
     },
     "overrides": {},
     "cpu": ["x64", "arm64"],
